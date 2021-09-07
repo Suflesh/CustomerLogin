@@ -105,13 +105,14 @@
                     <input type="submit" class="btn btn-success" value="REGISTER"><br><br>
                     <a href="#">Already Register!!</a>
                     <a href="login">Login Here</a><br><br>
+                    <a href="#">ARE YOU MEN</a><br><br>
                     
                 </form>
 
                 
             </div>
             <div class="col-3">
-
+                <h2>HELLO KARTIK SINGH</h2>
             </div>
         </div>
     </div>
